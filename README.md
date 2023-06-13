@@ -22,8 +22,6 @@ Open the file editor.ipynb notebook in a Jupyter notebook environment or upload 
 Run the notebook cells to execute the program.
 Follow the instructions on the notebook interface to edit files.
 
-# Google Colab 
-# [Pulsa aquí](https://colab.research.google.com/drive/1t6NqTTvg1z6mhZs4SMq1us8H4BLDBe_D?usp=sharing) para ir a Colab.
 
 # Contribution
 This project is open to contributions. If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue on the GitHub repository.
