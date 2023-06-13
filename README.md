@@ -21,6 +21,9 @@ Clone or download the project from the GitHub repository.
 Open the file editor.ipynb notebook in a Jupyter notebook environment or upload it to Google Colab.
 Run the notebook cells to execute the program.
 Follow the instructions on the notebook interface to edit files.
+
+# Google Colab 
+https://colab.research.google.com/drive/1t6NqTTvg1z6mhZs4SMq1us8H4BLDBe_D?usp=sharing
 # Contribution
 This project is open to contributions. If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue on the GitHub repository.
 
