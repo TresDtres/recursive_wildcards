@@ -25,7 +25,7 @@ Follow the instructions on the notebook interface to edit files.
 
 # Contribution
 This project is open to contributions. If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue on the GitHub repository.
-# PROMPHERO.COM 
+# PROMPTHERO.COM 
 [Prompt engineering course](https://prompthero.com/academy/prompt-engineering-course/aibreakfast)
 
 # License
